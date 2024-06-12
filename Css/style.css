@@ -1,0 +1,22 @@
+.image{
+    height: 350px;
+    width: 300px;
+    margin-left: 15px;
+    filter: grayscale(100%);
+}
+.image:hover{
+    filter: grayscale(0%);
+}
+.margin{
+    margin: 25px 25px 25px 25px;
+}
+.heading{
+    align-self: center;
+    font-size: 55px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(88, 85, 85);
+    font-weight: bold;
+}
+.heading:hover{
+    color: red;
+}
